@@ -13,9 +13,9 @@ Please click the publication button to view my current articles and work.
 
 Contact me: gaoning_ai@buaa.edu.cn / aoyama7hai@gmail.com
 
-## Works and Publications
+# Works and Publications
 
-### Reinforcement Learning & LLMs
+## Reinforcement Learning & LLMs
 
 **基于价值对齐的离线强化学习**
 
@@ -38,9 +38,9 @@ Contact me: gaoning_ai@buaa.edu.cn / aoyama7hai@gmail.com
 * **Authors:** Anonymous (Second Author)
 * **Abstract:** This article addresses the difficult optimization problem of long-range tasks in reinforcement learning, proposing the use of LLM's world knowledge for task planning and decomposition, further writing functions to judge subtask progress, and shaping a progress reward model to guide strategy learning, in order to improve strategy performance.
 
-### Computer Vision (mainly Image Restoration)
+## Computer Vision (mainly Image Restoration)
 
-**基于频率域启发的高效图像去雨研究**
+**基于频率域启发的高效图像复原研究**
 
 **Efficient Frequency-Domain Image Deraining with Contrastive Regularization** [ [PDF] ](/files/ECCV2024_Deraining.pdf)
 * **Conference:** ECCV 2024 Publication
