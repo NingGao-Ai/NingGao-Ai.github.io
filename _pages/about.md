@@ -12,9 +12,12 @@ I’m a second year master student from Beihang University(BUAA). My research in
 Please click the publication button to view my current articles and work.
 
 Contact me: 
+
 Email: gaoning_ai@buaa.edu.cn / aoyama7hai@gmail.com
-Wechat: gn18811126103
-X: @Aoyama7Hai
+
+Wechat: gn18811126103 / QQ: 1439096226
+
+X: @Aoyama7Hai / Ins: aoyama7hai
 
 # Works and Publications
 
