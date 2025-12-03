@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I’m a first year master student from Beihang University(BUAA). My research interest includes Computer Vision, Reinforcement Learning and Large Language Models.
+I’m a second year master student from Beihang University(BUAA). My research interest includes Computer Vision, Reinforcement Learning and Large Language Models.
 
 Please click the publication button to view my current articles and work.
 
-Contact me: gaoning_ai@buaa.edu.cn / aoyama7hai@gmail.com
+Contact me: 
+Email: gaoning_ai@buaa.edu.cn / aoyama7hai@gmail.com
+Wechat: gn18811126103
+X: @Aoyama7Hai
 
 # Works and Publications
 
