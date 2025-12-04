@@ -23,26 +23,26 @@ X: @Aoyama7Hai / Ins: aoyama7hai
 
 ## Reinforcement Learning & LLMs
 
-**基于价值对齐的离线强化学习**
-
-**Value-aligned Behavior Cloning for Offline Reinforcement Learning via Bi-level Optimization** [ [PDF] ](/files/ICLR2025_OfflineRL.pdf)
-* **Conference:** ICLR 2025 Publication
-* **Authors:** Xingyu Jiang, **Ning Gao**, Xiuhui Zhang, Hongkun Dou, Yue Deng
-* **Abstract:** This article aims at the problem of the lack of value alignment process in offline reinforcement learning methods such as behavior cloning, thus, a two-layer optimization design is proposed to implement a weighted behavior cloning strategy learning process, fully utilizing the value information of offline samples.
-
 **基于LLM与树搜索构建的强化学习奖励函数设计智能体**
 
-**(Under Review)Reward Agent...** [ [PDF] ](/files/NeurIPS2025Review_RewardFunctionAgent.pdf)
-* **Conference:** NeurIPS 2025 Under Review
-* **Authors:** Anonymous (First Author)
+**RF-Agent: Automated Reward Function Design via Language Agent Tree Search** [ [PDF] ](/files/NeurIPS2025Review_RewardFunctionAgent.pdf)
+* **Conference:** NeurIPS 2025 Spotlight
+* **Authors:** **Ning Gao**, Xiuhui Zhang, Xingyu Jiang, Mukang You, Mohan Zhang, Yue Deng
 * **Abstract:** This article addresses the difficulty of manually designing reward functions in reinforcement learning and proposes the use of an intelligent agent that combines LLM and tree search framework to achieve automatic design and optimization of reward functions. This framework further improves the quality of the generated reward function by utilizing the contextual reasoning ability brought by LLM testing and combining it with the actual performance of the generated reward function.
 
 **LLM协助的强化学习进度奖励模型设计**
 
-**(Under Review)Progress Reward...** [ [PDF] ](/files/NeurIPS2025Review_PRMinRLwithLLM.pdf)
-* **Conference:** NeurIPS 2025 Under Review
-* **Authors:** Anonymous (Second Author)
+**Progress Reward Model for Reinforcement Learning via Large Language Models** [ [PDF] ](/files/NeurIPS2025Review_PRMinRLwithLLM.pdf)
+* **Conference:** NeurIPS 2025 Poster
+* **Authors:** Xiuhui Zhang, **Ning Gao**, Xingyu Jiang, Yihui Chen, Yuheng Pan, Mohan Zhang, Yue Deng
 * **Abstract:** This article addresses the difficult optimization problem of long-range tasks in reinforcement learning, proposing the use of LLM's world knowledge for task planning and decomposition, further writing functions to judge subtask progress, and shaping a progress reward model to guide strategy learning, in order to improve strategy performance.
+
+**基于价值对齐的离线强化学习**
+
+**Value-aligned Behavior Cloning for Offline Reinforcement Learning via Bi-level Optimization** [ [PDF] ](/files/ICLR2025_OfflineRL.pdf)
+* **Conference:** ICLR 2025 Poster
+* **Authors:** Xingyu Jiang, **Ning Gao**, Xiuhui Zhang, Hongkun Dou, Yue Deng
+* **Abstract:** This article aims at the problem of the lack of value alignment process in offline reinforcement learning methods such as behavior cloning, thus, a two-layer optimization design is proposed to implement a weighted behavior cloning strategy learning process, fully utilizing the value information of offline samples.
 
 ## Computer Vision (mainly Image Restoration)
 
@@ -50,7 +50,7 @@ X: @Aoyama7Hai / Ins: aoyama7hai
 
 **Efficient Frequency-Domain Image Deraining with Contrastive Regularization** [ [PDF] ](/files/ECCV2024_Deraining.pdf)
 * **Conference:** ECCV 2024 Poster
-* **Authors:**Ning Gao**, Xingyu Jiang, Xiuhui Zhang, Yue Deng
+* **Authors**:**Ning Gao**, Xingyu Jiang, Xiuhui Zhang, Yue Deng
 * **Abstract:** This article innovatively explores the aggregation and separability of frequency domain transformation for rain line noise, and relies on the global feature extraction inherent in the transformation to replace visual attention in achieving a more efficient Transformer architecture for rain removal tasks.
 
 **When Fast Fourier Transform Meets Transformer for Image Restoration** [ [PDF] ](/files/ECCV2024_ImageRestoration.pdf)
