@@ -27,7 +27,7 @@ X: @Aoyama7Hai / Ins: aoyama7hai
 
 **Value-aligned Behavior Cloning for Offline Reinforcement Learning via Bi-level Optimization** [ [PDF] ](/files/ICLR2025_OfflineRL.pdf)
 * **Conference:** ICLR 2025 Publication
-* **Authors:** Xingyu Jiang, Ning Gao, Xiuhui Zhang, Hongkun Dou, Yue Deng
+* **Authors:** Xingyu Jiang, **Ning Gao**, Xiuhui Zhang, Hongkun Dou, Yue Deng
 * **Abstract:** This article aims at the problem of the lack of value alignment process in offline reinforcement learning methods such as behavior cloning, thus, a two-layer optimization design is proposed to implement a weighted behavior cloning strategy learning process, fully utilizing the value information of offline samples.
 
 **基于LLM与树搜索构建的强化学习奖励函数设计智能体**
@@ -49,18 +49,18 @@ X: @Aoyama7Hai / Ins: aoyama7hai
 **基于频率域启发的高效图像复原研究**
 
 **Efficient Frequency-Domain Image Deraining with Contrastive Regularization** [ [PDF] ](/files/ECCV2024_Deraining.pdf)
-* **Conference:** ECCV 2024 Publication
-* **Authors:** Ning Gao, Xingyu Jiang, Xiuhui Zhang, Yue Deng
+* **Conference:** ECCV 2024 Poster
+* **Authors:**Ning Gao**, Xingyu Jiang, Xiuhui Zhang, Yue Deng
 * **Abstract:** This article innovatively explores the aggregation and separability of frequency domain transformation for rain line noise, and relies on the global feature extraction inherent in the transformation to replace visual attention in achieving a more efficient Transformer architecture for rain removal tasks.
 
 **When Fast Fourier Transform Meets Transformer for Image Restoration** [ [PDF] ](/files/ECCV2024_ImageRestoration.pdf)
-* **Conference:** ECCV 2024 Publication
-* **Authors:** Xingyu Jiang, Xiuhui Zhang, Ning Gao, Yue Deng
+* **Conference:** ECCV 2024 Poster
+* **Authors:** Xingyu Jiang, Xiuhui Zhang, **Ning Gao**, Yue Deng
 * **Abstract:** This article innovatively explores the prior separation of different types of degraded noise by frequency domain transformation, and uses this as an efficient feature extraction method to design an image restoration network backbone that combines frequency domain and spatial domain features.
 
 **基于时空联合退化的3DGS的真实水下场景重建**
 
-**(Under Review)Spatiotemporal ...** [ [PDF] ](/files/ACMMM2025Review_Underwater3DGS.pdf)
-* **Conference:** ACMMM 2025 Under Review
-* **Authors:** Anonymous (Second Author)
+**Spatiotemporal Degradation-Aware 3D Gaussian Splatting for Realistic Underwater Scene Reconstruction** [ [PDF] ](/files/ACMMM2025Review_Underwater3DGS.pdf)
+* **Conference:** ACMMM 2025 Poster
+* **Authors:** Shaohua Liu, **Ning Gao**, Z Gu, H Dou, Y Deng, H Li
 * **Abstract:** This article proposes a coupling scheme between 3DGS and physical degradation formula for underwater 3D scene reconstruction and restoration tasks. It mainly focuses on physical parameter modeling and perceptual modeling for different noises, and uses depth geometric information training to achieve new perspective synthesis of underwater and waterless scenes.
