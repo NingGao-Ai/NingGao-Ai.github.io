@@ -23,6 +23,24 @@ X: @Aoyama7Hai / Ins: aoyama7hai
 
 ## Reinforcement Learning & LLMs
 
+### RL4LLM (RL Post Training)
+
+**面向多轮用户交互智能体的多粒度强化学习范式**
+
+**Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue** [ [PDF] ](https://arxiv.org/pdf/2602.22697)
+* **Conference:** arXiv (under review), first author
+* **Authors:** **Ning Gao**, ...
+* **Abstract:** This work targets a key real-world challenge in multi-turn task-oriented dialogue agents: balancing user experience (utility) against the operational cost of invoking business tools/actions. We propose **InteractCS**, a cost-aware reinforcement learning framework with a **Cost-aware Multi-granularity Policy Optimization (CMPO)** algorithm. By integrating **session-level outcome utility**, **process-level credit assignment**, and a **PID Lagrangian cost controller**, the agent is guided to explore the Pareto frontier between user satisfaction and global cost constraints. Experiments in a real commercial setting and on benchmark evaluations show substantial improvements over strong SOTA baselines (e.g., **GPT-4.1**), achieving about **25%** higher utility while meeting a specified action-constraint rate.
+
+**自进化多轮对话智能体**
+
+**SEAD: Self-Evolving Agent for Multi-Turn Service Dialogue** [ [PDF] ](https://arxiv.org/pdf/2602.03548)
+* **Conference:** arXiv (under review), co-first author
+* **Authors:** ..., **Ning Gao**, ...
+* **Abstract:** This work addresses the scarcity of high-quality training data for proactive multi-turn service dialogue agents. We propose **SEAD**, a self-evolving training framework in which a persona/profile controller actively adjusts the user distribution and is continuously optimized along with reinforcement learning. This self-evolution process yields stronger agents and improves task success rate by **20%** compared with other closed-source models.
+
+### LLM4RL (RL Reward Design)
+
 **基于LLM与树搜索构建的强化学习奖励函数设计智能体**
 
 **RF-Agent: Automated Reward Function Design via Language Agent Tree Search** [ [PDF] ](/files/NeurIPS2025Review_RewardFunctionAgent.pdf)
@@ -36,6 +54,8 @@ X: @Aoyama7Hai / Ins: aoyama7hai
 * **Conference:** NeurIPS 2025 Poster
 * **Authors:** Xiuhui Zhang, **Ning Gao**, Xingyu Jiang, Yihui Chen, Yuheng Pan, Mohan Zhang, Yue Deng
 * **Abstract:** This article addresses the difficult optimization problem of long-range tasks in reinforcement learning, proposing the use of LLM's world knowledge for task planning and decomposition, further writing functions to judge subtask progress, and shaping a progress reward model to guide strategy learning, in order to improve strategy performance.
+
+### DeepRL (Offline RL Method)
 
 **基于价值对齐的离线强化学习**
 
