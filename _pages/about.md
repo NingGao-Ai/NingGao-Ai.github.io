@@ -13,6 +13,8 @@ Please click the publication button to view my current articles and work.
 
 Contact me: 
 
+Google Scholar: https://scholar.google.com/citations?user=1QClGIMAAAAJ&hl
+
 Email: gaoning_ai@buaa.edu.cn / aoyama7hai@gmail.com
 
 Wechat: gn18811126103 / QQ: 1439096226
