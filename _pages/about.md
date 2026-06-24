@@ -36,14 +36,14 @@ This project explored LLM post-training for customer-service decision and respon
 **面向多轮用户交互智能体的多粒度强化学习范式**
 
 **Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue** [ [PDF] ](https://arxiv.org/pdf/2602.22697)
-* **Conference:** arXiv (under review), first author
+* **Conference:** ICML 2026 Poster, first author
 * **Authors:** **Ning Gao**, ...
 * **Abstract:** This work targets a key real-world challenge in multi-turn task-oriented dialogue agents: balancing user experience (utility) against the operational cost of invoking business tool[...]
 
 **自进化多轮对话智能体**
 
 **SEAD: Self-Evolving Agent for Multi-Turn Service Dialogue** [ [PDF] ](https://arxiv.org/pdf/2602.03548)
-* **Conference:** arXiv (under review), co-first author
+* **Conference:** ACL 2026 Findings, co-first author
 * **Authors:** ..., **Ning Gao**, ...
 * **Abstract:** This work addresses the scarcity of high-quality training data for proactive multi-turn service dialogue agents. We propose **SEAD**, a self-evolving training framework in which a [...]
 
