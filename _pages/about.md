@@ -13,7 +13,7 @@ Please click the publication button to view my current articles and work.
 
 Contact me: 
 
-Google Scholar: https://scholar.google.com/citations?user=1QClGIMAAAAJ&hl
+Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=1QClGIMAAAAJ&hl)
 
 Email: gaoning_ai@buaa.edu.cn / aoyama7hai@gmail.com
 
@@ -23,7 +23,7 @@ X: @Aoyama7Hai / Ins: aoyama7hai
 
 # Works and Publications
 
-## Work Experience
+## Intern Experience
 
 ### Tongyi Qianwen / Token Foundry (May 2026 – Present)
 This work focuses on post-training alignment for Qwen foundation models in open-ended dialogue and subjective tasks. I contributed to a human-preference-driven pipeline covering large-scale data curation, evaluation, and behavior analysis. I also participated in rubric-based automatic verification and RL-based optimization for expert models.
