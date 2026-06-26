@@ -27,10 +27,10 @@ X: @Aoyama7Hai / Ins: aoyama7hai
 
 ## Intern Experience
 
-### Tongyi Qianwen / Token Foundry (May 2026 – Present)
+### Alibaba, Tongyi Qwen / Token Foundry (May 2026 – Present)
 This work focuses on post-training alignment for Qwen foundation models in open-ended dialogue and subjective tasks. I contributed to a human-preference-driven pipeline covering large-scale data curation, evaluation, and behavior analysis. I also participated in rubric-based automatic verification and RL-based optimization for expert models.
 
-### Meituan Keeta & Fulfillment Platform (Aug 2025 – Feb 2026)
+### Meituan, Keeta (Aug 2025 – Feb 2026)
 This project explored LLM post-training for customer-service decision and response generation in real delivery scenarios. I participated in building a reinforcement-learning workflow with user simulation, hybrid rewards, and multi-turn policy optimization. The work emphasized balancing satisfaction and business constraints under practical deployment settings. The final approach showed clear gains in offline quality metrics and supported subsequent research outputs.
 
 ## Reinforcement Learning & LLMs
